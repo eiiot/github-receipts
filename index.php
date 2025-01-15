@@ -70,7 +70,7 @@ $schedules = [
   'wednesday' => [
     'FRENLANG 30 at 9:30AM',
     'COLLEGE 102 at 3:00PM',
-    'Carta Work Session at 9:00 PM'
+    'Carta Work Session at 6:00 PM'
   ],
   'thursday' => [
     'ARHIST 142 at 10:45AM',
